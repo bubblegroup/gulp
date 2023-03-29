@@ -1,7 +1,10 @@
 # gulp changelog
 
+## 4.0.4
+- npm audit fix (full)
+
 ## 4.0.3
-- initial fork, npm audit fix
+- initial fork, npm audit fix --omit=dev
 
 ## 4.0.0
 
