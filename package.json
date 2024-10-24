@@ -1,6 +1,6 @@
 {
   "name": "@bubblegroup/gulp",
-  "version": "4.0.4",
+  "version": "4.0.5",
   "description": "The streaming build system.",
   "homepage": "https://gulpjs.com",
   "author": "Gulp Team <team@gulpjs.com> (https://gulpjs.com/)",
@@ -28,9 +28,9 @@
     "test": "npx mocha --async-only"
   },
   "dependencies": {
-    "@bubblegroup/glob-watcher": "^5.0.6",
+    "@bubblegroup/glob-watcher": "^5.0.7",
     "@bubblegroup/vinyl-fs": "^3.0.4",
-    "gulp-cli": "^2.2.0",
+    "gulp-cli": "^3.0.0",
     "undertaker": "^1.2.1"
   },
   "devDependencies": {
